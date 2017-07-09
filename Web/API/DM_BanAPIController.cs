@@ -12,6 +12,7 @@ using Web.Models;
 
 namespace Web.API
 {
+    [Authorize]
     public class DM_BanAPIController : ApiController
     {
         private CoffeeEntities db = new CoffeeEntities();
@@ -19,7 +20,7 @@ namespace Web.API
         // GET: api/DM_BanAPI
         public IQueryable<DM_Ban> GetDM_Ban()
         {
-            return db.DM_Ban.OrderBy(p => p.ten);
+            return db.DM_Ban.OrderBy(p => p.idKhuVuc).ThenBy(p => p.ten);
         }
 
         // GET: api/DM_BanAPI/5

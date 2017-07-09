@@ -43,7 +43,7 @@ namespace Web.API
             DateTime tuNgay = new DateTime(int.Parse(tuNgayYear), int.Parse(tuNgayMonth), int.Parse(tuNgayDay), 0 , 0, 0);
             DateTime denNgay = new DateTime(int.Parse(denNgayYear), int.Parse(denNgayMonth), int.Parse(denNgayDay), 0, 0, 0);
 
-            var model = db.KT_NhapHang.Where(p => EntityFunctions.TruncateTime(p.thoigian.Value) >= tuNgay.Date  && EntityFunctions.TruncateTime(p.thoigian.Value) <= denNgay.Date);
+            var model = db.KT_NhapHang.Where(p => System.Data.Entity.DbFunctions.TruncateTime(p.thoigian.Value) >= tuNgay.Date  && System.Data.Entity.DbFunctions.TruncateTime(p.thoigian.Value) <= denNgay.Date);
 
             return model;
         }

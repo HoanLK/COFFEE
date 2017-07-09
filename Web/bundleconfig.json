@@ -36,18 +36,6 @@
     ]
   },
   {
-    "outputFileName": "Content/MyCSS/customize-dx.min.css",
-    "inputFiles": [
-      "Content/MyCSS/customize-dx.css"
-    ]
-  },
-  {
-    "outputFileName": "Content/MyCSS/generic.light.custom.min.css",
-    "inputFiles": [
-      "Content/MyCSS/generic.light.custom.css"
-    ]
-  },
-  {
     "outputFileName": "Scripts/Admin/DanhMuc/KhachHang/KhachHang.min.html",
     "inputFiles": [
       "Scripts/Admin/DanhMuc/KhachHang/KhachHang.html"
@@ -171,6 +159,60 @@
     "outputFileName": "Scripts/Admin/BaoCao/BaoCaoBanHang/baocaobanhangController.min.js",
     "inputFiles": [
       "Scripts/Admin/BaoCao/BaoCaoBanHang/baocaobanhangController.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/Vendors/DevExtreme/Lib/css/dx.spa.min.css",
+    "inputFiles": [
+      "Content/Vendors/DevExtreme/Lib/css/dx.spa.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Templates/Joli/css/theme-default.min.css",
+    "inputFiles": [
+      "Content/Templates/Joli/css/theme-default.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Templates/Joli/css/theme-brown.min.css",
+    "inputFiles": [
+      "Content/Templates/Joli/css/theme-brown.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Templates/Joli/js/plugins/scrolltotop/scrolltopcontrol.min.js",
+    "inputFiles": [
+      "Content/Templates/Joli/js/plugins/scrolltotop/scrolltopcontrol.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/Templates/Joli/js/actions.min.js",
+    "inputFiles": [
+      "Content/Templates/Joli/js/actions.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/Templates/Joli/js/plugins.min.js",
+    "inputFiles": [
+      "Content/Templates/Joli/js/plugins.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/MyCSS/loading.min.css",
+    "inputFiles": [
+      "Content/MyCSS/loading.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Vendors/DevExtreme/Lib/css/dx.light.min.css",
+    "inputFiles": [
+      "Content/Vendors/DevExtreme/Lib/css/dx.light.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Vendors/DevExtreme/Lib/css/dx.common.min.css",
+    "inputFiles": [
+      "Content/Vendors/DevExtreme/Lib/css/dx.common.css"
     ]
   }
 ]

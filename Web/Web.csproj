@@ -60,33 +60,26 @@
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.0.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.7\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.4.0\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.4.1\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.4.1\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.4.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.AI.Web, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.Web, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.4.1\lib\net45\Microsoft.AI.Web.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.AI.WindowsServer, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.4.1\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ApplicationInsights, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.4.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
@@ -100,32 +93,29 @@
       <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.1\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.AspNet.TelemetryCorrelation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.TelemetryCorrelation.1.0.0\lib\net45\Microsoft.AspNet.TelemetryCorrelation.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp">
       <Private>True</Private>
     </Reference>
-    <Reference Include="Microsoft.Owin, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.Owin, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.3.1.0\lib\net45\Microsoft.Owin.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.1.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Owin.Security, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.Owin.Security, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.1.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Owin.Security.Cookies, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.Owin.Security.Cookies, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.1.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Owin.Security.OAuth, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.1\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Microsoft.Owin.Security.OAuth, Version=3.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.1.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="OtpSharp, Version=1.3.0.4, Culture=neutral, PublicKeyToken=1ec2a4a54aeffc1e, processorArchitecture=MSIL">
       <HintPath>..\packages\OtpSharp.1.3.0.4\lib\net40\OtpSharp.dll</HintPath>
@@ -140,6 +130,9 @@
     </Reference>
     <Reference Include="System.Data">
       <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.4.0\lib\net45\System.Diagnostics.DiagnosticSource.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing">
       <Private>True</Private>
@@ -247,6 +240,7 @@
     <Folder Include="Content\Templates\Joli\assets\uploads\Welcome\folder 5\" />
     <Folder Include="Content\Templates\Joli\js\plugins\fileinput\fileinput\" />
     <Folder Include="Content\Vendors\angular-1.6.3\i18n\ngLocale\" />
+    <Folder Include="Views\BanHang\" />
     <Folder Include="Views\DinhLuong\" />
     <Folder Include="Views\HoaDonBanHang\" />
     <Folder Include="Views\MatHang\" />
@@ -308,6 +302,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\BanHangController.cs" />
     <Compile Include="Controllers\DinhLuongController.cs" />
     <Compile Include="Controllers\HoaDonBanHangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -399,6 +394,7 @@
       <DependentUpon>Karaoke2017.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\HoaDonBanHang\ChiTiet.cs" />
+    <Compile Include="Models\InitModelView.cs" />
     <Compile Include="Models\Karaoke2017.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -480,123 +476,13 @@
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\authenticator-iphone-sample.png" />
-    <Content Include="Content\Devextreme\Lib\css\dx.android5.light.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.common.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.contrast.compact.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.contrast.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.dark.compact.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.dark.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.ios7.default.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.light.compact.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.light.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.spa.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.win10.black.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.win10.white.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.win8.black.css" />
-    <Content Include="Content\Devextreme\Lib\css\dx.win8.white.css" />
-    <Content Include="Content\Devextreme\Lib\js\angular-1.2\angular-route.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular-1.2\angular-route.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular-1.2\angular.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular-1.2\angular.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular-route.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular-route.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular.js" />
-    <Content Include="Content\Devextreme\Lib\js\angular.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\event.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\event.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\supplemental.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\supplemental.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\unresolved.js" />
-    <Content Include="Content\Devextreme\Lib\js\cldr\unresolved.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.all.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.all.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.mobile.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.mobile.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.viz-web.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.viz-web.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.viz.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.viz.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.web.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\dx.web.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\currency.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\currency.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\date.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\date.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\message.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\message.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\number.js" />
-    <Content Include="Content\Devextreme\Lib\js\globalize\number.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-1.12.3.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-1.12.3.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-2.2.3.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-2.2.3.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-3.1.0.js" />
-    <Content Include="Content\Devextreme\Lib\js\jquery-3.1.0.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\jszip.js" />
-    <Content Include="Content\Devextreme\Lib\js\jszip.min.js" />
-    <Content Include="Content\Devextreme\Lib\js\knockout-3.4.0.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\knockout-3.4.0.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.all.de.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.all.ja.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.all.ru.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.messages.de.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.messages.en.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.messages.ja.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.messages.ru.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.mobile.de.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.mobile.ja.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.mobile.ru.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.web.de.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.web.ja.js" />
-    <Content Include="Content\Devextreme\Lib\js\localization\dx.web.ru.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\africa.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\canada.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\eurasia.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\europe.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\usa.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-data\world.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-utils\dx.vectormaputils.debug.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-utils\dx.vectormaputils.js" />
-    <Content Include="Content\Devextreme\Lib\js\vectormap-utils\dx.vectormaputils.node.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Desktop\DesktopLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Desktop\DesktopLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Desktop\DesktopLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Empty\EmptyLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Empty\EmptyLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Empty\EmptyLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Navbar\NavbarLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Navbar\NavbarLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Navbar\NavbarLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Pivot\PivotLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Pivot\PivotLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Pivot\PivotLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Popup\PopupLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Popup\PopupLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Popup\PopupLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Simple\SimpleLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Simple\SimpleLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Simple\SimpleLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\SlideOut\SlideOutLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\SlideOut\SlideOutLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\SlideOut\SlideOutLayout.js" />
-    <Content Include="Content\Devextreme\Lib\layouts\Split\SplitLayout.css" />
-    <Content Include="Content\Devextreme\Lib\layouts\Split\SplitLayout.html" />
-    <Content Include="Content\Devextreme\Lib\layouts\Split\SplitLayout.js" />
-    <Content Include="Content\MyCSS\customize-dx.css" />
-    <Content Include="Content\MyCSS\customize-dx.min.css">
-      <DependentUpon>customize-dx.css</DependentUpon>
-    </Content>
-    <Content Include="Content\Devextreme\Lib\css\generic.light.custom.css" />
-    <Content Include="Content\Devextreme\Lib\css\generic.light.custom.min.css">
-      <DependentUpon>generic.light.custom.css</DependentUpon>
-    </Content>
     <Content Include="Content\MyCSS\gistfile1.css" />
     <Content Include="Content\MyCSS\gistfile1.min.css">
       <DependentUpon>gistfile1.css</DependentUpon>
+    </Content>
+    <Content Include="Content\MyCSS\loading.css" />
+    <Content Include="Content\MyCSS\loading.min.css">
+      <DependentUpon>loading.css</DependentUpon>
     </Content>
     <Content Include="Content\Templates\Joli\assets\filetree\jqueryFileTree.asp" />
     <Content Include="Content\Templates\Joli\assets\filetree\jqueryFileTree.aspx" />
@@ -712,7 +598,13 @@
     <Content Include="Content\Templates\Joli\css\theme-black.css" />
     <Content Include="Content\Templates\Joli\css\theme-blue.css" />
     <Content Include="Content\Templates\Joli\css\theme-brown.css" />
+    <Content Include="Content\Templates\Joli\css\theme-brown.min.css">
+      <DependentUpon>theme-brown.css</DependentUpon>
+    </Content>
     <Content Include="Content\Templates\Joli\css\theme-default.css" />
+    <Content Include="Content\Templates\Joli\css\theme-default.min.css">
+      <DependentUpon>theme-default.css</DependentUpon>
+    </Content>
     <Content Include="Content\Templates\Joli\css\theme-white.css" />
     <Content Include="Content\Templates\Joli\img\backgrounds\wall_1.jpg" />
     <Content Include="Content\Templates\Joli\img\bg-dot.png" />
@@ -793,6 +685,7 @@
     <Content Include="Content\Templates\Joli\img\logo-small-grey.png" />
     <Content Include="Content\Templates\Joli\img\logo-small.png" />
     <Content Include="Content\Templates\Joli\img\logo.png" />
+    <Content Include="Content\Templates\Joli\img\Logo_Fastup.ico" />
     <Content Include="Content\Templates\Joli\img\owl\AjaxLoader.gif" />
     <Content Include="Content\Templates\Joli\img\owl\grabbing.png" />
     <Content Include="Content\Templates\Joli\img\themes\black.jpg" />
@@ -801,6 +694,9 @@
     <Content Include="Content\Templates\Joli\img\themes\default.jpg" />
     <Content Include="Content\Templates\Joli\img\themes\light.jpg" />
     <Content Include="Content\Templates\Joli\js\actions.js" />
+    <Content Include="Content\Templates\Joli\js\actions.min.js">
+      <DependentUpon>actions.js</DependentUpon>
+    </Content>
     <Content Include="Content\Templates\Joli\js\demo_charts_morris.js" />
     <Content Include="Content\Templates\Joli\js\demo_charts_nvd3.js" />
     <Content Include="Content\Templates\Joli\js\demo_charts_rickshaw.js" />
@@ -811,6 +707,9 @@
     <Content Include="Content\Templates\Joli\js\demo_tasks.js" />
     <Content Include="Content\Templates\Joli\js\faq.js" />
     <Content Include="Content\Templates\Joli\js\plugins.js" />
+    <Content Include="Content\Templates\Joli\js\plugins.min.js">
+      <DependentUpon>plugins.js</DependentUpon>
+    </Content>
     <Content Include="Content\Templates\Joli\js\plugins\blueimp\jquery.blueimp-gallery.min.js" />
     <Content Include="Content\Templates\Joli\js\plugins\bootstrap\bootstrap-colorpicker.js" />
     <Content Include="Content\Templates\Joli\js\plugins\bootstrap\bootstrap-datepicker.js" />
@@ -1166,6 +1065,9 @@
     <Content Include="Content\Templates\Joli\js\plugins\rickshaw\d3.v3.js" />
     <Content Include="Content\Templates\Joli\js\plugins\rickshaw\rickshaw.min.js" />
     <Content Include="Content\Templates\Joli\js\plugins\scrolltotop\scrolltopcontrol.js" />
+    <Content Include="Content\Templates\Joli\js\plugins\scrolltotop\scrolltopcontrol.min.js">
+      <DependentUpon>scrolltopcontrol.js</DependentUpon>
+    </Content>
     <Content Include="Content\Templates\Joli\js\plugins\smartwizard\jquery.smartWizard-2.0.min.js" />
     <Content Include="Content\Templates\Joli\js\plugins\sparkline\jquery.sparkline.min.js" />
     <Content Include="Content\Templates\Joli\js\plugins\summernote\summernote.js" />
@@ -1971,6 +1873,133 @@
     <Content Include="Content\Vendors\angular-1.6.3\i18n\angular-locale_zu-za.js" />
     <Content Include="Content\Vendors\angular-1.6.3\i18n\angular-locale_zu.js" />
     <Content Include="Content\Vendors\angular-1.6.3\version.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\AngularJS License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\Dexer License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\Globalize License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\jQuery License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\JSZip License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\Knockout License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\EULA\Unicode License.txt" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\dx.exporter.dark.css" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\dx.exporter.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\dx.exporter.js" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\dx.exporter.light.css" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\exporter-server.js" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\jquery-2.2.3.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Exporter\readme.txt" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.android5.light.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.common.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.common.min.css">
+      <DependentUpon>dx.common.css</DependentUpon>
+    </Content>
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.contrast.compact.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.contrast.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.dark.compact.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.dark.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.ios7.default.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.light.compact.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.light.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.light.min.css">
+      <DependentUpon>dx.light.css</DependentUpon>
+    </Content>
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.spa.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.win10.black.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.win10.white.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.win8.black.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\dx.win8.white.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-1.2\angular-route.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-1.2\angular-route.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-1.2\angular.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-1.2\angular.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-route.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular-route.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\angular.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\event.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\event.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\supplemental.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\supplemental.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\unresolved.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\cldr\unresolved.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.all.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.all.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.aspnet.mvc.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.mobile.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.mobile.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.viz-web.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.viz-web.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.viz.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.viz.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.web.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\dx.web.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\currency.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\currency.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\date.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\date.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\message.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\message.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\number.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\globalize\number.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-1.12.3.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-1.12.3.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-2.2.3.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-2.2.3.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-3.1.0.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jquery-3.1.0.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jszip.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\jszip.min.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\knockout-3.4.0.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\knockout-3.4.0.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.all.de.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.all.ja.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.all.ru.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.messages.de.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.messages.en.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.messages.ja.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.messages.ru.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.mobile.de.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.mobile.ja.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.mobile.ru.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.web.de.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.web.ja.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\localization\dx.web.ru.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\africa.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\canada.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\eurasia.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\europe.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\usa.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-data\world.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-utils\dx.vectormaputils.debug.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-utils\dx.vectormaputils.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\js\vectormap-utils\dx.vectormaputils.node.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Desktop\DesktopLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Desktop\DesktopLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Desktop\DesktopLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Empty\EmptyLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Empty\EmptyLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Empty\EmptyLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Navbar\NavbarLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Navbar\NavbarLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Navbar\NavbarLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Pivot\PivotLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Pivot\PivotLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Pivot\PivotLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Popup\PopupLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Popup\PopupLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Popup\PopupLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Simple\SimpleLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Simple\SimpleLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Simple\SimpleLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\SlideOut\SlideOutLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\SlideOut\SlideOutLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\SlideOut\SlideOutLayout.js" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Split\SplitLayout.css" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Split\SplitLayout.html" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\layouts\Split\SplitLayout.js" />
     <Content Include="Content\Vendors\fcsa-number\fcsaNumber.js" />
     <Content Include="Content\Vendors\fcsa-number\fcsaNumber.min.js" />
     <Content Include="Content\Vendors\font-awesome\css\font-awesome.css" />
@@ -2026,14 +2055,14 @@
       <DependentUpon>bundleconfig.json</DependentUpon>
     </Content>
     <Content Include="Content\Vendors\fcsa-number\fcsaNumber.coffee" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\icons\dxicons.ttf" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\icons\dxicons.woff" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\icons\dxiconsios.ttf" />
+    <Content Include="Content\Vendors\DevExtreme\Lib\css\icons\dxiconsios.woff" />
     <None Include="gulpfile.js" />
     <Content Include="Models\Coffee.edmx.diagram">
       <DependentUpon>Coffee.edmx</DependentUpon>
     </Content>
-    <Content Include="Content\Devextreme\Lib\css\icons\dxicons.ttf" />
-    <Content Include="Content\Devextreme\Lib\css\icons\dxicons.woff" />
-    <Content Include="Content\Devextreme\Lib\css\icons\dxiconsios.ttf" />
-    <Content Include="Content\Devextreme\Lib\css\icons\dxiconsios.woff" />
     <Content Include="Content\Vendors\font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="Content\Vendors\font-awesome\fonts\fontawesome-webfont.ttf" />
     <Content Include="Content\Vendors\font-awesome\fonts\fontawesome-webfont.woff" />
@@ -2293,13 +2322,13 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\cldr.js-event.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\cldr.js-supplemental.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\cldr.js.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\dx.all.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\globalize.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\jquery.d.ts" />
-    <TypeScriptCompile Include="Content\Devextreme\Lib\ts\knockout.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\cldr.js-event.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\cldr.js-supplemental.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\cldr.js.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\dx.all.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\globalize.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\jquery.d.ts" />
+    <TypeScriptCompile Include="Content\Vendors\DevExtreme\Lib\ts\knockout.d.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

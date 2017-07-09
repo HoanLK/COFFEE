@@ -59,7 +59,7 @@ namespace Web.API
             DateTime tuNgay = new DateTime(int.Parse(tuNgayYear), int.Parse(tuNgayMonth), int.Parse(tuNgayDay), 0, 0, 0);
             DateTime denNgay = new DateTime(int.Parse(denNgayYear), int.Parse(denNgayMonth), int.Parse(denNgayDay), 0, 0, 0);
 
-            var model = db.ORDER_HoaDonBanHang.Where(p => EntityFunctions.TruncateTime(p.thoigianVao.Value) >= tuNgay.Date && EntityFunctions.TruncateTime(p.thoigianVao.Value) <= denNgay.Date && p.isThanhToan == true && p.isHuy == false);
+            var model = db.ORDER_HoaDonBanHang.Where(p => System.Data.Entity.DbFunctions.TruncateTime(p.thoigianVao.Value) >= tuNgay.Date && System.Data.Entity.DbFunctions.TruncateTime(p.thoigianVao.Value) <= denNgay.Date && p.isThanhToan == true && p.isHuy == false);
 
             return model;
         }

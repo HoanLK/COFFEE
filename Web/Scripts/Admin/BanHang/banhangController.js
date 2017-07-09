@@ -5,6 +5,7 @@
     $scope.khuvuc = {};
     var apiKhuVuc = "/API/DM_KhuVucAPI/";
     //Bàn
+    var allBans = [];
     $scope.bans = [];
     $scope.ban = {};
     var apiBan = "/API/DM_BanAPI";
@@ -756,8 +757,17 @@
 
     //---FUNCTION---
     function Init() {
-        GetAllKhuVuc();
-        GetBanByKhuVuc();
+        $http.get("/banhang/init")
+            .then(function success(response) {
+                //Lấy danh sách khu vực
+                $scope.khuvucs = angular.copy(response.data.KhuVucs);
+
+                //Lấy danh sách bàn
+                allBans = angular.copy(response.data.Bans);
+                $scope.bans = angular.copy(allBans);
+            }, function error(response) {
+                toastr.error("Không lấy được dữ liệu Khởi tạo");
+            });
         GetAllKhachHang();
         GetAllDonViTinh();
         GetAllNhomThucDon();
@@ -766,14 +776,6 @@
     }
 
     //Khu vực
-    function GetAllKhuVuc() {
-        $http.get(apiKhuVuc)
-            .then(function (response) {
-                if (response.status == 200) {
-                    $scope.khuvucs = response.data;
-                }
-            })
-    }
 
     //Bàn
     function GetBanByKhuVuc() {

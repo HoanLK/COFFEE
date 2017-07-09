@@ -188,6 +188,7 @@ D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.ApplicationInsights.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.CSharp.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
@@ -202,6 +203,7 @@ D:\Work\Software\Coffee\COFFEE\Web\bin\System.ComponentModel.DataAnnotations.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Configuration.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Data.DataSetExtensions.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Data.dll
+D:\Work\Software\Coffee\COFFEE\Web\bin\System.Diagnostics.DiagnosticSource.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Drawing.dll
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Net.Http.Formatting.dll
@@ -236,6 +238,7 @@ D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.ApplicationInsights.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.Security.xml
@@ -243,6 +246,7 @@ D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.Security.Cookies.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\Newtonsoft.Json.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\OtpSharp.xml
+D:\Work\Software\Coffee\COFFEE\Web\bin\System.Diagnostics.DiagnosticSource.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Web.Optimization.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Net.Http.Formatting.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Web.Helpers.xml
@@ -255,4 +259,3 @@ D:\Work\Software\Coffee\COFFEE\Web\bin\System.Web.WebPages.Deployment.xml
 D:\Work\Software\Coffee\COFFEE\Web\bin\System.Web.WebPages.Razor.xml
 D:\Work\Software\Coffee\COFFEE\Web\obj\Debug\Web.dll
 D:\Work\Software\Coffee\COFFEE\Web\obj\Debug\Web.pdb
-D:\Work\Software\Coffee\COFFEE\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
